@@ -1,0 +1,226 @@
+body {
+  margin: 0;
+  font-family: "Avenir Next";
+  color:#444444;
+}
+
+li{
+  list-style:none;
+}
+
+a {
+  text-decoration: none;
+  color:#444444;
+}
+
+.header-list a{
+  position:relative;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+.top-wrapper h1 {
+  font-size: 60px;
+}
+
+.top-wrapper h2 {
+  font-size: 30px;
+}
+
+.h1message span {
+  color: #FF8841;
+}
+
+.header-list li{
+  float:right;
+  padding:9px 20px;
+  display: block;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(joshua-ness-O__SJjXTEFg-unsplash.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  font-size: 60px;
+  letter-spacing: 5px;
+}
+
+.top-wrapper p {
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  height: 70px;
+  width: 100%;
+  background-color: #f7f7f7;
+  position: fixed;
+  top:0;
+  z-index:10;
+  color:#444444;
+}
+
+.logo {
+  width: 180px;
+}
+
+.header-left {
+  float: left;
+}
+
+
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  display: block;
+}
+
+.lesson-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+  border-radius: 10px;
+}
+
+.lesson-icon:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+.lesson-icon:hover{
+  background-color: #FFB241;
+  opacity: 0.8;
+}
+
+.lesson-icon p {
+  top: 90px;
+  width: 100%;
+  color: #444444;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #b3aeb5;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.message-wrapper-login{
+  height:400px;
+  border-bottom: 1px solid #eee;
+  padding: 150px 0;
+  text-align: center;
+}
+
+.signup a{
+  position: relative;
+  color:
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #FFB241;
+  cursor: pointer;
+  box-shadow: 0 7px #FFA21A;
+  color:#444444;
+
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  display: inline-block;
+  width:100%;
+}
